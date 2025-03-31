@@ -1,4 +1,4 @@
-# Cloud File Uploader CLI Tool
+# AWS S3 Transfer CLI Tool
 
 This bash-based CLI tool allows users to quickly upload files to a specified AWS S3 bucket, providing a simple and seamless upload experience. The tool also generates a shareable link for the uploaded file.
 
